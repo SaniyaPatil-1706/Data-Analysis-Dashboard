@@ -5,7 +5,7 @@ The objective of this project is to analyze COVID-19 pandemic data, including to
 
 ##Dataset Used
 The dataset contains COVID-19 pandemic information related to countries, cities, cases, deaths, recoveries, vaccinations, hospitalizations, ICU patients, COVID-19 variants, population, months, and years. The dataset is used to analyze the overall impact of COVID-19 and identify important trends through an Excel dashboard.
-Dataset 
+Dataset used
 -<a href = "https://github.com/SaniyaPatil-1706/Data-Analysis-Dashboard/blob/main/Covid-19Dashboard.xlsx" >Covid-19 Data </a>
 
 
@@ -22,7 +22,7 @@ Which countries recorded the highest number of COVID-19 cases?
 How did vaccination numbers change over the years?
 What is the distribution of COVID-19 variants?
 How do Hospitalized Patients compare with ICU Patients?
-Dashboard Interaction View Dashboard (Add your dashboard link here)
+- Dashboard Interaction View Dashboard <a href = "https://github.com/SaniyaPatil-1706/Data-Analysis-Dashboard/blob/main/Covid-19Dasboard_ss.docx">View Dashboard</a>
 
 ##Process
 
